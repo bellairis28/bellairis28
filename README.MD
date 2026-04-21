@@ -3,9 +3,9 @@
 print("Hello, world 🌎");
 ```
 
-👋 hey, i'm [**lebadura**](https://), a full-stack software dev hailing from [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/).
+👋 hey, i'm [**Iris**](https://), a future AI engineer hailing from [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/).
 
-i'm always **testing** and **learning** new ways of helping others (like [CattleyaLang](https://github.com/justlebadura/cattleyaLang) using **python**) and other technologies.
+i'm always **testing** and **learning** new ways of helping others (like [sign transaltor](https://github.com/bellairis28/finger-calculator) using **python**) and other technologies.
 
 <div align="center">
 
